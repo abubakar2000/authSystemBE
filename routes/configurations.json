@@ -1,0 +1,6 @@
+{
+    "host":"localhost",
+    "password":"123456asd",
+    "database":"authdb",
+    "user":"root"
+}
